@@ -1,0 +1,11 @@
+{
+  "name": "Сервис Wabco, Knorr-Bremse, Haldex, ZF AS TRONIC",
+  "version": "1.0.0",
+  "description": "Tihs is description",
+  "main": "index.js",
+  "scripts": {
+    "dev": "harp server && browser-sync start --proxy 'localhost:9000' --files '*.*, **/*.*'"
+  },
+  "author": "Andrii Honhalo",
+  "license": "ISC"
+}
